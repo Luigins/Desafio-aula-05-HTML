@@ -18,6 +18,7 @@ Nesse desafio trabalhamos as tags de HTML como lista, link, imagem, cores e entr
 - **HTML5:** Estruturação lógica e semântica das páginas.
 - **CSS3:** Estilização responsiva, layout e aplicação de paletas de cores.
 - **JavaScript (ES6+):** Manipulação dinâmica de elementos e interações do usuário.
+- **[Adobe Color](https://color.adobe.com/):** Seleção de paleta cromática, garantindo contraste, acessibilidade e harmonia visual.
 - **VS Code:** Ambiente de desenvolvimento integrado (IDE).
 
 > *Nota: O processo de tiragem de dúvidas técnicas, estruturação do repositório e suporte no desenvolvimento contou com a colaboração do assistente de inteligência artificial Gemini.*
@@ -34,6 +35,24 @@ Atividade_aula05/
     ├── images (3).jpg        # Imagem complementar de interface
     └── unnamed.webp          # Asset gráfico otimizado (WebP)
 ```
+
+---
+
+## 💻 Como Executar o Projeto
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/Atividade_aula05.git
+   ```
+
+2. **Navegue até o diretório:**
+   ```bash
+   cd Atividade_aula05
+   ```
+
+3. **Abra o projeto:**
+   - Dê um duplo clique no arquivo `Desafio_05.html` para abrir diretamente no navegador; **OU**
+   - Abra a pasta no **VS Code** e execute utilizando a extensão **Live Server**.
 
 ---
 
